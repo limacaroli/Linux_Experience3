@@ -1,0 +1,9 @@
+CREATE TABLE Pessoas ( 
+
+PessoaID int,
+Nome varchar(50), 
+Sobrenome varchar(50), 
+Endereço varchar (100), 
+Cidade varchar (50)
+);
+
